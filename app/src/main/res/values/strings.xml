@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RolltheDice</string>
+    <string name="computer_score_0">Computer Score: 0</string>
+    <string name="roll_the_die">Roll the Die</string>
+    <string name="your_score_0">Your Score: 0</string>
+    <string name="play_again">Play again</string>
+    <string name="hold">Hold</string>
+    <string name="todo">TODO</string>
+</resources>
