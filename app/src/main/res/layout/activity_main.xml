@@ -113,7 +113,7 @@
         android:id="@+id/materialToolbar"
         android:layout_width="417dp"
         android:layout_height="67dp"
-        android:background="#37107C"
+        android:background="#D10606"
         android:minHeight="?attr/actionBarSize"
         android:theme="?attr/actionBarTheme" />
 
